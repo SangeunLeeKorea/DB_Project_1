@@ -1,0 +1,1 @@
+1. Microsoft Access와 주어진 정보들을 활용하여 QUERY를 작성하고, REPORT를 만들어내는 프로젝트
